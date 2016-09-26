@@ -3,7 +3,7 @@
 class DocumentMaker < Que::Job
   def run(person_id)
     person = Person.find(person_id)
-    if person.delivered_at == nil
+    unless person.delivered_at
       ActiveRecord::Base.transaction do
         person.send_documents
         person.delivered_at = Time.now
