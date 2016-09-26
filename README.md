@@ -1,24 +1,25 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A system for automatically filling out gender and name change documents
+for transgender people.
 
-Things you may want to cover:
+We WON at Hack4Equality! Special thanks to Grindr and Planned Parenthood
+for their sponsorship.
 
-* Ruby version
+MORE COMING SOON!
 
-* System dependencies
+All portions Copyright (C) 2016 Janet Evelyn Jeffus
 
-* Configuration
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
 
-* Database creation
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see
+    <http://www.gnu.org/licenses/>.
