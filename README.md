@@ -6,7 +6,21 @@ for transgender people.
 We WON at Hack4Equality! Special thanks to Grindr and Planned Parenthood
 for their sponsorship.
 
-MORE COMING SOON!
+# Next Steps
+
+The next steps for this project are in our Taiga.io agile tracker.
+
+https://tree.taiga.io/project/asteria-kristeningme/
+
+Also you can check out our mockups here:
+
+https://classic.moqups.com/asteria/qW4PDCQ6
+
+We intend to better generalize the code to support multiple states and
+add a PDF editor. The editor would allow easy positioning of the form
+elements on newly added PDFs for additonal states.
+
+# MORE COMING SOON
 
 All portions Copyright (C) 2016 Janet Evelyn Jeffus
 
